@@ -3,6 +3,7 @@ This was the second project in Programming for Data Science with Python Nanodegr
 
 ## Data
 Randomly selected data for the first six months of 2017 for all three cities.
+
 data provided by https://www.motivateco.com.
 
 ## Technologies Used
