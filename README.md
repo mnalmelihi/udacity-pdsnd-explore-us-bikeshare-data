@@ -7,7 +7,7 @@ Randomly selected data for the first six months of 2017 for all three cities.
 data provided by https://www.motivateco.com.
 
 ## Technologies Used
-Python 3.  *Packages: pandas, numpy, time, calendar, and pprint*.
+Python 3.7.7 - *Libraries: NumPy, pandas, time, calendar, and pprint*.
 
 ## Date created
 01/11/2019.
